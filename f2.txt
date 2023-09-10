@@ -1,2 +1,2 @@
 1, 2, 3
-local main3
+remote main
